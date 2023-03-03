@@ -1,0 +1,3 @@
+### Linux do Zero
+
+O programa é direcionado a profissionais de tecnologia que desejam aperfeiçoar seus conhecimentos no sistema operacional Linux em uma trilha imersiva, rápida e eficiente. O Linux do Zero possui apenas 44 horas, que podem ser finalizadas em poucos dias, com atividades 100% voltadas para os desafios do mercado de trabalho. Nesse programa, o usuário aprende a principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor.
